@@ -1,2 +1,2 @@
 # JSnakeGame
-2d snake game with art
+2d java swing snake game with art
